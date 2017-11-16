@@ -1,0 +1,1 @@
+I read Code most of the time when I am not coding or feeling bored. I do this to satisfy my own appetite for learning. In the process, I learn new algorithms, logic, ways to code, etc. This repository is an effort to get everything to one place. I also plan to read code from a top repository for one hour and also document it. 
